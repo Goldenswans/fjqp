@@ -1,1 +1,1 @@
-https://gw-open-api.goldenswan.net
+https://gw-open-api.goldenswan.net/
